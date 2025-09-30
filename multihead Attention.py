@@ -1,5 +1,5 @@
 import tensorflow as tf
-from tensorflow.keras.layers import Layer, Dense, Flatten, Dropout, Reshape
+from tf.keras.layers import Layer, Dense, Flatten, Dropout, Reshape
 class MultiHeadAttention(Layer):
     def __init__(self, units, num_heads, **kwargs):
         super(MultiHeadAttention, self).__init__(**kwargs)
