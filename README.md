@@ -1,2 +1,7 @@
-## Main Script: LCG-Attention.py (restricted until publication)
-Contains the model setup, data handling, data mining, and model evaluation metrics 
+The key objectives of this projects are as follows:
+• A novel technique integrating the Multi-head attention mechanism with an LSTM-CNN-GRU(LCG) hybrid model.
+• Detecting the outlier from the Dataset and removing it using statistical method.
+• Increase the number of features by using Time-lag operators and statsmodel.
+• Calculate the feature importance by regression method and apply feature engineering. 
+
+
