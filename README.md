@@ -2,7 +2,8 @@
 
 The proposed architecture consists of three major segments:
 
-1. CNN Branch: This branch captures hidden spatial-temporal representations from the input sequences. The CNN branch extracts local temporal patterns using -
+1. CNN Branch: This branch captures hidden spatial-temporal representations from the input sequences.
+   The CNN branch extracts local temporal patterns using -
    
    Conv1D layers
 
@@ -10,7 +11,8 @@ The proposed architecture consists of three major segments:
 
    Dropout regularization
 
-3. LSTM-GRU Branch: This branch captures both short-term and long-term temporal relationships. The recurrent branch combines -
+3. LSTM-GRU Branch: This branch captures both short-term and long-term temporal relationships.
+   The recurrent branch combines -
    LSTM layers for long-term dependency learning
 
    GRU layers for efficient sequential modeling
