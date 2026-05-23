@@ -1,6 +1,6 @@
 # Multi-Head Attention integrated LCG (LSTM-CNN-GRU) model for Load Forecasting
 
-The proposed architecture consists of two major branches:
+The proposed architecture consists of three major segments:
 
 1. CNN Branch: The CNN branch extracts local temporal patterns using -
 Conv1D layers
