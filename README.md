@@ -16,7 +16,6 @@ GRU layers for efficient sequential modeling
 This branch captures both short-term and long-term temporal relationships.
 
 3. Multi-Head Attention Mechanism
-
 A custom Multi-Head Attention layer is implemented to improve feature learning.
 The attention mechanism:
 Focuses on important temporal information
